@@ -43,5 +43,5 @@ We want our users to be satisfied with our product, for example let’s say sati
 So what type of users have these higher open rates?  If we don't already have this data, our next step could be to conduct targeted surveys with users above this threshold to determine if there are additional indicators we can use for further analysis.  If we did already have this information on our users, for example we know that people who use our product for business purposes have open rates above this threshold, we could expand our analysis to control for personal versus business use.  We might see the same relationship between satisfaction and open rate for both groups, but it might only hold true for business users.  This type of information can help streamline the product design, in this case maybe having different settings for business and personal users. 
 
 #### References
-https://hbr.org/2016/02/a-refresher-on-statistical-significance <br>
-https://en.wikipedia.org/wiki/Regression_analysis
+<https://hbr.org/2016/02/a-refresher-on-statistical-significance> <br>
+<https://en.wikipedia.org/wiki/Regression_analysis>
