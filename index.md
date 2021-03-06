@@ -3,7 +3,7 @@
 #### Motivation
 You and your team are working on a new digital product.  During beta testing user surveys are conducted regularly, and user behaviours such as open rates and click-through rates are tracked by a user analytic platform.  Your goal is to create user profiles to determine who to target and think of when building your product.  Two key variables of interest have been identified, user's self reported satisfaction score and the user's open rates.  Users were asked to score their satisfaction on a continuous scale of 0-5.  Open rate is calculated as the percentage of emails opened by the user (emails opened/emails sent), emails are sent daily by the product.  
 
-![fig1](fig1.png =50x50)
+![fig1](fig1.png)
 
 Your data analyst excitedly tells you they have found statistically significant results between these two variables using a regression analysis!  They report the regression coefficient, p-value, and confidence interval of their results, seen in the table below, but what does this mean for you?  How can you take these results and translate them into action?  
 
